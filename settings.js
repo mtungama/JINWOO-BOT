@@ -19,7 +19,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with Jinwoo-Bot:~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || 'ᎫᏆΝᏔϴϴ ᏴϴͲ' 
+global.botname = process.env.BOT_NAME || 'MTUNGAMA_MW"
 //Your desired bot name
 
 //=================================================//
@@ -74,7 +74,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Nairobi"
 //Don't edit this if you don't know!
 
 //=================================================//
-global.autoread = process.env.AUTO_READ || 'false';
+global.autoread = process.env.AUTO_READ || 'true';
 // Set to 'true' to enable automatic reading of messages
 
 //=================================================//
